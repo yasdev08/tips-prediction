@@ -431,32 +431,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **[Your Name]** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-- **[Team Member 2]** - *Data analysis* 
-- **[Team Member 3]** - *Model development*
-- **[Team Member 4]** - *Deployment*
-- **[Team Member 5]** - *Documentation*
+- **[Yasser Mecherrem]** - *Initial work*- *Model development* - *Deployment* - [yasdev08](https://github.com/yasdev08)
+- **[Ibtissem Debbi]** - *Data analysis* 
+- **[Baki Fatima]** - *Documentation*
+
 
 ## 🙏 Acknowledgments
 
 - Dataset source: Restaurant tips data
 - Course: Machine Learning Fundamentals
-- Institution: [Your University/Institution]
+- Institution: Univeristy of Mascara
 - Inspiration: Real-world regression analysis
 - Libraries: scikit-learn, Gradio, pandas communities
 
 ## 📞 Contact
 
-- **Project Link:** [https://github.com/yourusername/tips-prediction](https://github.com/yourusername/tips-prediction)
-- **Issues:** [https://github.com/yourusername/tips-prediction/issues](https://github.com/yourusername/tips-prediction/issues)
-- **Email:** your.email@example.com
+- **Project Link:** [https://github.com/yasdev08/tips-prediction](https://github.com/yasdev08/tips-prediction)
+- **Issues:** [https://github.com/yasdev08/tips-prediction/issues](https://github.com/yasdev08/tips-prediction/issues)
+- **Email:** yasser.mechrem29@example.com
 
 ## 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/tips-prediction)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tips-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tips-prediction?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tips-prediction)
+![GitHub repo size](https://img.shields.io/github/repo-size/yasdev08/tips-prediction)
+![GitHub stars](https://img.shields.io/github/stars/yasdev08/tips-prediction?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yasdev08/tips-prediction?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yasdev08/tips-prediction)
 
 ---
 
