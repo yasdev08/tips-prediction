@@ -21,12 +21,12 @@ This project analyzes 244 restaurant transactions to predict tip amounts based o
 ## 🎥 Demo
 
 ### Web Interface (Gradio)
-![Gradio Interface Demo](https://via.placeholder.com/800x400?text=Gradio+Interface+Demo)
+![Gradio Interface Demo](visualizations/screenshots/Gradio_interface.png)
 *Live tip prediction with interactive web interface*
 
 ### Model Performance Comparison
-![Model Comparison](https://via.placeholder.com/800x400?text=Model+Performance+Comparison)
-*Linear Regression outperforms ensemble methods*
+![Model Comparison](visualizations/model_comparison.png)
+*Linear Regression wins*
 
 ## 📁 Project Structure
 
@@ -73,7 +73,7 @@ tips-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/tips-prediction.git
+git clone https://github.com/yasdev08/tips-prediction.git
 cd tips-prediction
 ```
 
